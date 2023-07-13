@@ -1,0 +1,6 @@
+# Project exclude paths
+/LikeService/target/
+/PostsService/target/
+/RelationService/target/
+/ServerService/target/
+/UserService/target/
